@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3321-type-of-triangle](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3321-type-of-triangle) |
 ## String
 |  |
