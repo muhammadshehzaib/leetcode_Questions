@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3321-type-of-triangle](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3321-type-of-triangle) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3321-type-of-triangle) |
+## String
+|  |
+| ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
