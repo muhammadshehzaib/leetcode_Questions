@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1894-merge-strings-alternately) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
