@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1651-shuffle-string](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1319-unique-number-of-occurrences) |
 ## Bit Manipulation
 |  |
