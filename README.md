@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1651-shuffle-string](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1651-shuffle-string) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1319-unique-number-of-occurrences) |
 ## Bit Manipulation
@@ -37,15 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3321-type-of-triangle](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
