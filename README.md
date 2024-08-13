@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3321-type-of-triangle](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
