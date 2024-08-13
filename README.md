@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1651-shuffle-string](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2058-concatenation-of-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
