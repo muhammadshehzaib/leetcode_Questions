@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0817-design-hashmap](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0817-design-hashmap) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1651-shuffle-string](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1651-shuffle-string) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0817-design-hashmap](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0817-design-hashmap) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -80,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0817-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
