@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0817-design-hashmap) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1603-running-sum-of-1d-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2058-concatenation-of-array) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0817-design-hashmap) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
