@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3321-type-of-triangle](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3321-type-of-triangle) |
 ## String
 |  |
