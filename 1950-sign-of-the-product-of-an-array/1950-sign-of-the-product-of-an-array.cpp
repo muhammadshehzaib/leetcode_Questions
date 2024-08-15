@@ -13,9 +13,6 @@ public:
                 }
             }
           }
-            if(count%2==0){
-                return 1;
-            }
-            return -1;
-          }
+        return count%2==0 ? 1 : -1;
+    }
 };
