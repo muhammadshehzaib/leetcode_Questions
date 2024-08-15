@@ -10,7 +10,6 @@ public:
             i++;
         }
        }
-       cout<<count;
        if(count>=n){
         return true;
        }
