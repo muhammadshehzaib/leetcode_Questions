@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0605-can-place-flowers) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
