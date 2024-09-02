@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
 | ------- |
