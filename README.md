@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1894-merge-strings-alternately) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Divide and Conquer
 |  |
 | ------- |
