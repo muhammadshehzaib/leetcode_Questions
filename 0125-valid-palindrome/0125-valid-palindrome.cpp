@@ -15,10 +15,14 @@ public:
         int i=0;
         int j=result.size()-1;
         while(i<j){
-            if(result[i]!=result[j]){
-                return false;
+            if(result[i]==result[j]){
+                i++;
+                j--;
             }
-            i++;j--;
+            else{
+            return false;
+
+            }
         }
         return true;
 
