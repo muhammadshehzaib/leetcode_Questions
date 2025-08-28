@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* buildTree(int startIndex,int endIndex,vector<int> nums){
+    TreeNode* buildTree(int startIndex,int endIndex,vector<int> &nums){
         if (startIndex > endIndex) return nullptr;
 
         int midIndex = (startIndex + endIndex)/2;
