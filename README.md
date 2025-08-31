@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0414-third-maximum-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0817-design-hashmap](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/muhammadshehzaib/leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
