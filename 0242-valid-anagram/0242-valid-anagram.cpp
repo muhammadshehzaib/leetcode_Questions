@@ -4,11 +4,18 @@ public:
         if(s.length()!=t.length()){
             return false;
         }
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        if(s==t){
-            return true;
+        int frequency[26] = {0};
+        for (char x : s) {
+            frequency[x-'a']++;
+    }
+        for(char y:t){
+            frequency[y-'a']--;
         }
-        return false;
+        for(int x:frequency){
+            if(x!=0){
+                return false;
+            }
+        }
+        return true;
     }
 };
